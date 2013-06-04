@@ -1,3 +1,4 @@
+# all of this lifted from a WordPress htaccess example
 <IfModule mod_rewrite.c>
  RewriteEngine On
  RewriteBase /
